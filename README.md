@@ -1,24 +1,28 @@
 
->=>    >=> >=======> >====>     >=======>>=> >=>     >=> >======>   
->=>    >=> >=>       >=>   >=>         >=>   >=>     >=> >=>    >=> 
->=>    >=> >=>       >=>    >=>       >=>    >=>     >=> >=>    >=> 
->=====>>=> >=====>   >=>    >=>     >=>      >=>     >=> >======>   
->=>    >=> >=>       >=>    >=>    >=>       >=>     >=> >=>        
->=>    >=> >=>       >=>   >=>   >=>         >=>     >=> >=>        
->=>    >=> >=======> >====>     >==========>   >====>    >=>     
+ >=>    >=> >=======> >====>     >=======>>=> >=>     >=> >======>   
+ >=>    >=> >=>       >=>   >=>         >=>   >=>     >=> >=>    >=> 
+ >=>    >=> >=>       >=>    >=>       >=>    >=>     >=> >=>    >=> 
+ >=====>>=> >=====>   >=>    >=>     >=>      >=>     >=> >======>   
+ >=>    >=> >=>       >=>    >=>    >=>       >=>     >=> >=>        
+ >=>    >=> >=>       >=>   >=>   >=>         >=>     >=> >=>        
+ >=>    >=> >=======> >====>     >==========>   >====>    >=>     
 
 install node on computer
-$ npm i serve -g
-$ npm i ngrok -g
+
+> $ npm i serve -g
+
+> $ npm i ngrok -g
 
 Sign up for free account on ngrok to serve site securely to any phone you provide link to
 Open HEDZUP-HACKATHON AR in VSCODE, or in TERMINAL
 
 $ serve
+
 > localhost:3000
 
 open a new TERMINAL
 $ ngrok http 3000
+
 > http://random-letters-and-numbers-00-XX-YY.ngrok.io 
 
 Copy ngrok url
