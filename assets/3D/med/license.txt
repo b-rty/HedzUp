@@ -1,0 +1,11 @@
+Model Information:
+* title:	KF2 Medic Perk Symbol
+* source:	https://sketchfab.com/3d-models/kf2-medic-perk-symbol-d51c06307a174d4bb0b275b2396cc7ce
+* author:	DiabolicMaggot (https://sketchfab.com/DiabolicMaggot)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "KF2 Medic Perk Symbol" (https://sketchfab.com/3d-models/kf2-medic-perk-symbol-d51c06307a174d4bb0b275b2396cc7ce) by DiabolicMaggot (https://sketchfab.com/DiabolicMaggot) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
