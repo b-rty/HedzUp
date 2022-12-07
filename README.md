@@ -17,7 +17,8 @@ Open HEDZUP in VSCODE, or in TERMINAL
 > localhost:3000
 
 open a new TERMINAL
-$ ngrok http 3000
+
+>$ ngrok http 3000
 
 > http://random-letters-and-numbers-00-XX-YY.ngrok.io 
 
