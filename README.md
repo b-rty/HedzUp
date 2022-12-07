@@ -10,7 +10,7 @@ install node on computer
 > $ npm i ngrok -g
 
 Sign up for free account on ngrok to serve site securely to any phone you provide link to
-Open HEDZUP-HACKATHON AR in VSCODE, or in TERMINAL
+Open HEDZUP in VSCODE, or in TERMINAL
 
 > $ serve
 
